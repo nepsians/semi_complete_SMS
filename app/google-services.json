@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694569640521",
+    "firebase_url": "https://test-64339.firebaseio.com",
+    "project_id": "test-64339",
+    "storage_bucket": "test-64339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694569640521:android:29d2ae9117af1a89",
+        "android_client_info": {
+          "package_name": "com.gameconnect3.ujjwal.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694569640521-4o63b44n6mdn1tg2cl1ttm93urjckt0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gameconnect3.ujjwal.firebasedemo",
+            "certificate_hash": "329568cf78905d7eb512d7cb8a2ba3063f092e8e"
+          }
+        },
+        {
+          "client_id": "694569640521-204a5smm0hpjgekds34e6dk3m25ec8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFurl1TYYUooNzh_WqyXPNittEfkdWiN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694569640521-204a5smm0hpjgekds34e6dk3m25ec8bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
